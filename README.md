@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src='https://github-widgetbox.vercel.app/api/profile?username=reid-harrisson&data=followers,repositories,stars,commits&theme=nautilus' />
+  <img src='https://github-widgetbox.vercel.app/api/profile?username=reid-harrisson&data=followers,repositories,stars,commits&theme=darkmode' />
 </p>
 
 <p align="center">
