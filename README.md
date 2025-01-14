@@ -4,11 +4,7 @@
 
 <h3 align="center">Visitor's Count :eyes:</h3>
 <p align="center">
-	<img src="https://profile-counter.glitch.me/{reid-harrisson}/count.svg" alt="reid-harrisson :: Visitor's Count" width="30%"/>
-</p>
-
-<p align="center">
-	<img src='https://github-widgetbox.vercel.app/api/profile?username=reid-harrisson&data=followers,repositories,stars,commits&theme=nautilus' width="80%" />
+	<img src="https://profile-counter.glitch.me/{reid-harrisson}/count.svg" alt="reid-harrisson :: Visitor's Count" width="24%"/>
 </p>
 	
 <p align="center">
@@ -18,8 +14,14 @@
 	</a>
 </p>
 
- <p align="center">
-	<a href="https://github.com/reid-harrisson?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=reid-harrisson&theme=darkhub&no-frame=true&column=6&row=1" alt="@reid-harrisson's trophy stats" width="70%"/></a>
+<p align="center">
+	<a href="https://github.com/reid-harrisson?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=reid-harrisson&theme=darkhub&no-frame=true&column=6&row=1" alt="@reid-harrisson's trophy stats" width="80%"/></a>
+</p>
+
+<p align="center">
+    <a href="https://wakatime.com/@reid-harrisson">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=reid-harrisson&theme=cobalt&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="80%" alt="akatsukione's activity graph">
+    </a>
 </p>
 
 <p align="center">
