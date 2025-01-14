@@ -9,9 +9,9 @@
 </p>
 	
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reid-harrisson&langs_count=10&theme=cobalt&hide_border=true&layout=compact" width="36.7%" alt="reid-harrisson :: Top Langs" />
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reid-harrisson&langs_count=10&theme=cobalt&hide_border=true&layout=compact" width="36.6%" alt="reid-harrisson :: Top Langs" />
 	<a href="https://github.com/reid-harrisson?tab=repositories">
-		<img src="https://github-readme-stats-one-bice.vercel.app/api?username=reid-harrisson&theme=cobalt&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="@reid-harrisson's github-readme-stats" width="43.3%"/>
+		<img src="https://github-readme-stats-one-bice.vercel.app/api?username=reid-harrisson&theme=cobalt&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" alt="@reid-harrisson's github-readme-stats" width="43.4%"/>
 	</a>
 </p>
 
