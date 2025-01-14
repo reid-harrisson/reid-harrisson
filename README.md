@@ -1,7 +1,10 @@
-<h2 style="text-align: center">Github stats: </h2>
-<h4 align="center">Visitor's count :eyes:</h4>
 <p align="center">
-	<img src="https://profile-counter.glitch.me/{reid-harrisson}/count.svg" alt="reid-harrisson :: Visitor's Count" width="20%"/>
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header"/>
+</p>
+
+<h3 align="center">Visitor's Count :eyes:</h3>
+<p align="center">
+	<img src="https://profile-counter.glitch.me/{reid-harrisson}/count.svg" alt="reid-harrisson :: Visitor's Count" width="30%"/>
 </p>
 
 <p align="center">
@@ -16,7 +19,7 @@
 </p>
 
  <p align="center">
-	<a href="https://github.com/reid-harrisson?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=reid-harrisson&theme=darkhub&no-frame=true&column=6&row=1" alt="@reid-harrisson's trophy stats" width="80%"/></a>
+	<a href="https://github.com/reid-harrisson?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=reid-harrisson&theme=darkhub&no-frame=true&column=6&row=1" alt="@reid-harrisson's trophy stats" width="70%"/></a>
 </p>
 
 <p align="center">
