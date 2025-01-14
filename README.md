@@ -13,8 +13,7 @@
 
 <p align="center">
 
-<a href="https://github.com/reid-harrisson?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=reid-harrisson&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@reid-harrisson's github-readme-stats"/></a>
-
+<a href="https://github.com/reid-harrisson?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=reid-harrisson&theme=merko&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="100%" alt="@reid-harrisson's github-readme-stats"/></a>
 </p>
 
 <!-- <h2>Contact :postbox:</h2>
