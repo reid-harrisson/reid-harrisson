@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/reid-harrisson?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=reid-harrisson&theme=gitdimmed&no-frame=true&column=3&row=2" alt="@reid-harrisson's trophy stats"/></a>
+  <a href="https://github.com/reid-harrisson?tab=achievements"><img src="https://github-profile-trophy.vercel.app/?username=reid-harrisson&theme=darkhub&no-frame=true&column=3&row=2" alt="@reid-harrisson's trophy stats"/></a>
 </p>
 
 <p align="center">
