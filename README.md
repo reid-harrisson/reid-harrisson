@@ -16,9 +16,7 @@
 </p>
 
 <p align="center">
-    <a href="https://wakatime.com/@reid-harrisson">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=reid-harrisson&theme=cobalt&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="80%">
-    </a>
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=reid-harrisson&theme=cobalt&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="80%">
 </p>
 
 <p align="center">
