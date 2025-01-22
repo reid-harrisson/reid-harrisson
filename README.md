@@ -12,8 +12,8 @@
 <hr/>
 
 <p align="center">
-	<img src="https://github-readme-stats-one-bice.vercel.app/api?username=reid-harrisson&theme=cobalt&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="49.2%"/>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reid-harrisson&langs_count=10&theme=cobalt&hide_border=true&layout=compact&bg_color=0D1117" width="30.8%"/>
+	<img src="https://github-readme-stats-one-bice.vercel.app/api?username=reid-harrisson&theme=cobalt&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="55.35%%"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reid-harrisson&langs_count=10&theme=cobalt&hide_border=true&layout=compact&bg_color=0D1117" width="34.65%"/>
 </p>
 
 <hr/>
