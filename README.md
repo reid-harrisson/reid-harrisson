@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reid-harrisson&langs_count=10&theme=cobalt&hide_border=true&layout=compact" width="28.4%"/>
-	<img src="https://github-readme-stats-one-bice.vercel.app/api?username=reid-harrisson&theme=cobalt&show_icons=true&count_private=true&hide_border=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="51.6%"/>
+	<img src="https://github-readme-stats-one-bice.vercel.app/api?username=reid-harrisson&theme=cobalt&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="49.2%"/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reid-harrisson&langs_count=10&theme=cobalt&hide_border=true&layout=compact&bg_color=0D1117" width="30.8%"/>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-	<img src="https://github-readme-activity-graph.vercel.app/graph?username=reid-harrisson&theme=cobalt&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="80%">
+	<img src="https://github-readme-activity-graph.vercel.app/graph?username=reid-harrisson&hide_border=true&theme=cobalt&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo&bg_color=0D1117" width="80%">
 </p>
 
 <p align="center">
