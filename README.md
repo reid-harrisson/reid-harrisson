@@ -1,8 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header" width="100%"/>
 
-<p align="center">
-	VISIT COUNT
-</p>
+<h3 align="center">
+	Code isn’t just what we write!
+</h3>
+
+<h5 align="center">
+	It’s what we live and breathe every single day.
+</h5>
+
+<br/>
 
 <p align="center">
 	<img src="https://img.shields.io/badge/PROFILE_VIEWS_➤-000000?style=for-the-badge&logo=github&logoColor=4EAA25" height="24px"/>
