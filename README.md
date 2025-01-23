@@ -1,12 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=header" width="100%"/>
 
 <h3 align="center">
-	Code isn’t just what we write!
+	Code isn’t just what we write! It’s what we live and breathe every single day.
 </h3>
-
-<h5 align="center">
-	It’s what we live and breathe every single day.
-</h5>
 
 <br/>
 
