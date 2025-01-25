@@ -37,7 +37,7 @@
 	<img src="./images/11.jpg" width="240px"/>
 	<img src="./images/convert.png" width="160px"/>
 	<img src="./images/33.png" width="240px"/>
-	<a href="https://image-converter-api-one.vercel.app/swagger/index.html"><h3>Give it a try!</h3></a>
+	<a href="https://image-converter-api-one.vercel.app/swagger/index.html">Give it a try!</a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%"/>
