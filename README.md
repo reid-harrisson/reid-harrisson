@@ -4,11 +4,13 @@
 	<h1>Best Project</h1>
 	<h3>Have you encountered this issue before?</h3>
 	<h4>I converted a JPG image to PNG using Photoshop and AI tools, but the quality wasn't clear.</h4>
-	<img src="./images/11.jpg" width="40%"/>
-	<img src="./images/22.png" width="40%"/>
+	<img src="./images/11.jpg" width="240px"/>
+	<img src="./images/convert.png" width="160px"/>
+	<img src="./images/22.png" width="240px"/>
 	<h4>However, if you use this image-converter API, you can achieve a clearer conversion!</h4>
-	<img src="./images/22.png" width="40%"/>
-	<img src="./images/33.png" width="40%"/>
+	<img src="./images/11.jpg" width="240px"/>
+	<img src="./images/convert.png" width="160px"/>
+	<img src="./images/33.png" width="240px"/>
 	<h3>Give it a try!</h3>
 </div>
 
